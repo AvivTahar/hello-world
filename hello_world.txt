@@ -1,9 +1,10 @@
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet,
 consecteteur adipiscing elit.
- commodo ligula eget dolor.
- massa.
+THIS_IS_THE_WAY_I_CHOOSE_TO_RESOLVE_CONFLICT commodo ligula eget dolor.
+AENEAN massa.
 Cum sociis natoque penatibus et magnis dis parturient montes,
-nascetur ridiculus mus. THIS_IS_ARBITRARY
+nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
